@@ -2,6 +2,10 @@
 
 A console-based Banking System developed using Core Java. This project demonstrates modular programming, methods, loops, switch-case, input validation, and transaction management.
 
+## 📊 Project Flow
+
+![Banking System Flow](banking-system-flow.png)
+
 ## 📌 Features
 
 ✅ Deposit Money
