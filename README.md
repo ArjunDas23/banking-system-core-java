@@ -53,4 +53,7 @@ A console-based Banking System developed using Core Java. This project demonstra
 
 ## 👨‍💻 Author
 
-Arjun Das
+**Arjun Das**
+
+- Java Beginner Projects
+- BCA Student
