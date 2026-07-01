@@ -1,2 +1,52 @@
-# banking-system-core-java
-A console-based Banking System built using Core Java with methods, switch-case, loops, input validation, and modular programming.
+# 🏦 Banking System (Core Java)
+
+A console-based Banking System developed using Core Java. This project demonstrates modular programming, methods, loops, switch-case, input validation, and transaction management.
+
+## 📌 Features
+
+✅ Deposit Money
+
+✅ Withdraw Money
+
+✅ Check Balance
+
+✅ Transaction Counter
+
+✅ Input Validation
+
+✅ Menu-Driven Program
+
+## 🛠 Technologies Used
+
+- Java
+- Scanner Class
+- Methods
+- Switch Case
+- do-while Loop
+- if-else Statements
+
+## 📚 Core Java Concepts Covered
+
+- Variables
+- Methods
+- Parameters & Return Types
+- Conditional Statements
+- Loops
+- Scanner
+- Modular Programming
+- Static Variables
+
+## ▶ Sample Menu
+
+```
+===== BANK MENU =====
+1. Deposit Money
+2. Withdraw Money
+3. Check Balance
+4. Transaction Count
+5. Exit
+```
+
+## 👨‍💻 Author
+
+Arjun Das
